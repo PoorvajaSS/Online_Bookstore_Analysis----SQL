@@ -42,7 +42,8 @@ Managing and analyzing data for an online bookstore can be challenging due to th
 
 # Data Model 
 
-![Data Model -2](https://github.com/user-attachments/assets/7e02dac5-3313-4d4e-a494-c1ff8b9ea026)
+![Data Model -2](https://github.com/user-attachments/assets/fc16255a-c71c-4557-b1dd-55df264e14df)
+
 
 
 # Insights
